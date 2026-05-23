@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Poonam 👋
 
 I am currently transitioning into Data Analytics with hands-on learning in SQL and Power BI.
